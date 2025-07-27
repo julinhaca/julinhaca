@@ -1,16 +1,60 @@
-## Hi there 👋
+<!-- Título central com fundo rosa claro -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=200&section=header&text=Olá,%20eu%20sou%20a%20Julia!%20🌸&fontSize=40&fontColor=ffffff" />
+</div>
 
-<!--
-**julinhaca/julinhaca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">✨ Desenvolvedora Web </h3>
 
-Here are some ideas to get you started:
+---
+### 🛠️ Tecnologias que uso
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-ff69b4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-ff69b4?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-ff69b4?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-ff69b4?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-ff69b4?style=for-the-badge&logo=javascript&logoColor=white" />
+</p>
+
+---
+
+### 📈 Minhas estatísticas
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=julinhaca&show_icons=true&theme=tokyonight&icon_color=ff69b4&title_color=ff69b4&text_color=ffffff" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julinhaca&layout=compact&theme=tokyonight&title_color=ff69b4&text_color=ffffff" />
+</div>
+
+---
+
+### 💡 Sobre mim
+
+🌸 Me chamo **Julia**, mas aqui no GitHub sou conhecida como **@julinhaca**  
+💻 Trabalho com desenvolvimento de sistemas web usando:
+
+- 🧩 **PHP**
+- 🛢️ **MySQL** e Banco de Dados
+- 🎨 **HTML + CSS** com um toque especial de estilo
+- ⚡ **JavaScript** para deixar tudo mais dinâmico!
+
+📬 Email para contato: **juliacavalcante027@gmail.com**
+
+---
+
+### ✨ Um pouco sobre meu estilo
+
+💖 Eu gosto de códigos organizados, com visual bonito e com carinho em cada detalhe  
+💡 Acredito que tecnologia pode ser leve, acessível e criativa  
+🌷 Sempre aprendendo, crescendo e programando com propósito
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=100&section=footer" />
+</p>
+
+<p align="center">
+  Feito com 💕 por <strong>Julia (@julinhaca)</strong>
+</p>
+
+
