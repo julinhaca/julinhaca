@@ -3,10 +3,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=200&section=header&text=Olá,%20eu%20sou%20a%20Julia!%20🌸&fontSize=40&fontColor=ffffff" />
 </div>
 
-<h3 align="center">✨ Desenvolvedora Web </h3>
+<h3 align="">  💡 Sobre mim </h3>
+
+🌸 Me chamo **Julia**, mas aqui no GitHub sou conhecida como **@julinhaca**
 
 ---
-### 🛠️ Tecnologias que uso
+### 🛠️ linguagens que uso
 
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-ff69b4?style=for-the-badge&logo=php&logoColor=white" />
@@ -27,9 +29,7 @@
 
 ---
 
-### 💡 Sobre mim
-
-🌸 Me chamo **Julia**, mas aqui no GitHub sou conhecida como **@julinhaca**  
+###  
 💻 Trabalho com desenvolvimento de sistemas web usando:
 
 - 🧩 **PHP**
