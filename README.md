@@ -7,8 +7,11 @@
 
 🌸 Me chamo **Julia**, mas aqui no GitHub sou conhecida como **@julinhaca**
 
-🌸 Sou formada em Analise de Desenvolvimento de Sistema na faculdade anhanguera e também formada na escola CEEP  Centro Estadual de Educaçao Proficional Predo Boartto Neto no curso de informatica  Cascavel -PR .             
-sempre gostei da area de informatica, e a programção é onde eu mais gostei, pois algo que não tinha, com a programação e possivel de ter usando a criatividade e estilo além de problemas serem resolvidos usando a criatividade .🌸
+🌸 Sou formada em Analise de Desenvolvimento de Sistema na faculdade anhanguera 
+
+também formada na escola CEEP  Centro Estadual de Educaçao Proficional Predo Boartto Neto no curso de informatica  Cascavel -PR .   
+
+Sempre gostei da area de informatica, e a programção é onde eu mais gostei, pois algo que não tinha, com a programação e possivel de ter usando a criatividade e estilo além de problemas serem resolvidos usando a criatividade .🌸
 
 🌸 Gosto sempre de me atualizar das coisas pois problemas que eram resolvildo com um codigo agora é resolvido com outro mais atualizado mais criativo e mais agil pois os problemas nuncam acabam sempre aparece um novo e com isso vem as novas soluções com criatividade , agilidade ou simplicidade. 🌸
 
