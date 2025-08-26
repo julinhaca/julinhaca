@@ -3,21 +3,26 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=200&section=header&text=Olá,%20eu%20sou%20a%20Julia!%20🌸&fontSize=40&fontColor=ffffff" />
 </div>
 
-<h3 align="">  💡 Sobre mim </h3>
+<!-- Avatar -->
+<div align="center">
+  <img src="Gemini_Generated_Image_xosz23xosz23xosz.png" alt="Avatar representando Julia" width="350" />
+</div>
+
+<h3 align="center"> 💡 Sobre mim </h3>
 
 🌸 Me chamo **Julia**, mas aqui no GitHub sou conhecida como **@julinhaca**
 
-🌸 Sou formada em Analise de Desenvolvimento de Sistema na faculdade anhanguera 
+🌸 Sou formada em Analise de Desenvolvimento de Sistema na faculdade anhanguera  
 
-também formada na escola CEEP  Centro Estadual de Educaçao Proficional Predo Boartto Neto no curso de informatica  Cascavel -PR .   
+Também formada na escola CEEP Centro Estadual de Educaçao Profissional Predo Boartto Neto no curso de Informática em Cascavel - PR.   
 
-Sempre gostei da area de informatica, e a programção é onde eu mais gostei, pois algo que não tinha, com a programação e possivel de ter usando a criatividade e estilo além de problemas serem resolvidos usando a criatividade .🌸
+Sempre gostei da área de informática, e a programação é onde eu mais gostei, pois algo que não tinha, com a programação é possível de ter usando a criatividade e estilo, além de problemas serem resolvidos com criatividade. 🌸  
 
-🌸 Gosto sempre de me atualizar das coisas pois problemas que eram resolvildo com um codigo agora é resolvido com outro mais atualizado mais criativo e mais agil pois os problemas nuncam acabam sempre aparece um novo e com isso vem as novas soluções com criatividade , agilidade ou simplicidade. 🌸
-
+🌸 Gosto sempre de me atualizar das coisas, pois problemas que eram resolvidos com um código agora são resolvidos com outro mais atualizado, criativo e ágil. Como os problemas nunca acabam, sempre aparece um novo, e com isso vêm novas soluções com criatividade, agilidade ou simplicidade. 🌸
 
 ---
-### 🛠️ linguagens que uso
+
+### 🛠️ Linguagens que uso
 
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
@@ -26,8 +31,6 @@ Sempre gostei da area de informatica, e a programção é onde eu mais gostei, p
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
-
-
 
 ---
 
@@ -40,8 +43,7 @@ Sempre gostei da area de informatica, e a programção é onde eu mais gostei, p
 
 ---
 
-###  
-💻 Trabalho com desenvolvimento de sistemas web usando:
+### 💻 Trabalho com desenvolvimento de sistemas web usando:
 
 - 🧩 **PHP**
 - 🛢️ **MySQL** e Banco de Dados
@@ -55,7 +57,6 @@ Sempre gostei da area de informatica, e a programção é onde eu mais gostei, p
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/julinhaca/julinhaca/output/github-contribution-grid-snake.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/julinhaca/julinhaca/output/github-contribution-grid-snake.svg">
 </picture>
-
 
 ---
 
@@ -74,5 +75,6 @@ Sempre gostei da area de informatica, e a programção é onde eu mais gostei, p
 <p align="center">
   Feito com 💕 por <strong>Julia (@julinhaca)</strong>
 </p>
+
 
 
